@@ -1,0 +1,52 @@
+{
+  "appName": {
+    "message": "Genesys Cloud for Chrome (w/ auto-answer)",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "appTitle": {
+    "message": "Genesys Cloud for Chrome (AA)"
+  },
+  "optionsUrl": {
+    "message": "Genesys Cloud for Chrome URL"
+  },
+  "optionsClickToDial": {
+    "message": "Enable Click-to-Dial"
+  },
+  "optionsEnableServerSideLogging": {
+    "message": "Enable Server-Side Logging"
+  },
+  "optionsEnableConfigurableCallerID": {
+    "message": "Enable Configurable Caller ID"
+  },
+  "optionsSearchExternalContacts": {
+    "message": "Search Genesys Cloud External Contacts"
+  },
+  "optionsDefaultOutboundSMSCountryCode": {
+    "message": "Default Outbound SMS Country Code"
+  },
+  "optionsSelectCountryCode": {
+    "message": "Select a country code"
+  },
+  "optionsDedicatedLoginWindow": {
+    "message": "Enable Dedicated Login Window"
+  },
+  "optionsEnableCallHistory": {
+    "message": "Enable Call History"
+  },
+  "optionsSave": {
+    "message": "Save"
+  },
+  "optionsSaving": {
+    "message": "Saving..."
+  },
+  "optionsCancel": {
+    "message": "Cancel"
+  },
+  "contextMenuMakeCall": {
+    "message": "Make a Call"
+  }
+}
