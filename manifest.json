@@ -30,7 +30,7 @@
   "content_scripts": [
     {
       "matches": ["*://*/*"],
-      "js": ["external/jquery/jquery.min.js", "app/js/browserHelperService.js", "app/js/settingsHelper.js", "app/js/contentScript.js", "framework.js"],
+      "js": ["external/jquery/jquery.min.js", "app/js/browserHelperService.js", "app/js/settingsHelper.js", "app/js/contentScript.js"],
       "all_frames": true
     }
   ],
